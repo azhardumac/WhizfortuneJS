@@ -61,14 +61,14 @@
                 sliderData: [
                     {
                         id: 1,
-                        heading: "Designing awesome brands & experiences",
-                        text: "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+                        heading: "Welcome to Whizfortune",
+                        text: "We are passionate about technology and dedicated to providing top-notch IT solutions to businesses of all sizes and industries.",
                         bgImgSrc: "/images/hero-image/hero-1.jpg"
                     },
                     {
                         id: 2,
                         heading: "Developing awesome sites & experiences",
-                        text: "We are an agency located in New York. We think strategy, craft design, develop digital and create motion. To forward your brand and business.",
+                        text: "We Got Perfect Solutions For All Your Digital Needs.Achieve Excellence with Custom Software Solutions Aligned with Your Business Goals.",
                         bgImgSrc: "/images/hero-image/hero-2.jpg"
                     }
                 ]

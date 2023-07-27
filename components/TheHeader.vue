@@ -8,7 +8,7 @@
                     <div class="col-xl-2 col-auto order-0">
                         <div class="header-logo">
                             <NuxtLink to="/">
-                                <img class="dark-logo" src="/images/logo/logo.png" alt="Agency Logo">
+                                <img class="dark-logo" src="/images/logo/whizlogo2.png" alt="Agency Logo">
                                 <img class="light-logo" src="/images/logo/logo.png" alt="Agency Logo">
                             </NuxtLink>
                         </div>

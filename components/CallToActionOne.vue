@@ -12,8 +12,8 @@
                             <img class="svgInject" src="/images/svg/linea/linea-basic-map.svg" alt="Icon">
                         </div>
                         <div class="info">
-                            <h4 class="title">Our Locations</h4>
-                            <span class="info-text"> 110 W 34th St, NYC. <br> 67 Madison Avenue.</span>
+                            <h4 class="title">Our Location</h4>
+                            <span class="info-text"> Konark Business Hub. <br> Pune, India.</span>
                         </div>
                     </div>
                 </div>
@@ -25,7 +25,9 @@
                         </div>
                         <div class="info">
                             <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> 0123456789 <br> 0123456789</span>
+                            <a class="info-text" href="tel:08956786421"> +91-8956786421 <br> </a>
+                            <a class="info-text" href="tel:08956786421"> <br> </a>
+
                         </div>
                     </div>
                 </div>
@@ -38,9 +40,9 @@
                         <div class="info">
                             <h4 class="title">Help Desk</h4>
                             <span class="info-text">
-                                <a href="mailto:demo@example.com">demo@example.com</a>
+                                <a href="mailto:info@whizfortune.com">info@whizfortune.com</a>
                                 <br>
-                                <a href="mailto:demo@example.com">demo@example.com</a>
+                                <a href="mailto:support@whizfortune.com">support@whizfortune.com</a>
                             </span>
                         </div>
                     </div>
