@@ -1,6 +1,6 @@
 <template>
     <div class="header-section header-transparent" :class="{'is-sticky': isSticky}">
-        <div class="header-inner">
+       <div class="header-inner">
             <div class="container position-relative">
                 <div class="row justify-content-between align-items-center">
 
@@ -46,7 +46,7 @@
 
                     <!-- Header Right Start -->
                     <div class="col-xl-2 col d-none d-sm-flex justify-content-end order-1 order-xl-2">
-                        <a href="https://1.envato.market/VLbOj" class="btn btn-light btn-hover-primary" target="_blank">Buy Now</a>
+                        <a href="https://1.envato.market/VLbOj" class="btn btn-light btn-hover-primary" target="_blank">Free Estimate</a>
                     </div>
                     <!-- Header Right End -->
 
@@ -55,6 +55,8 @@
         </div>
     </div>
 </template>
+
+
 
 <script>
     export default {

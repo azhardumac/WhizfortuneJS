@@ -19,7 +19,7 @@
     export default {
         head() {
             return {
-                title: 'Corporate Business'
+                title: 'Whizfortune'
             }
         },
     };

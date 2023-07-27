@@ -97,7 +97,7 @@
             <!-- Footer Copyright Start -->
             <div class="row">
                 <div class="col">
-                    <p class="copyright">&copy; 2023 Exomac. Made with <i class="fa fa-heart text-danger"></i> by <a href="https://themeforest.net/user/codecarnival/portfolio" target="_blank">Codecarnival</a></p>
+                    <p class="copyright">&copy; Copyright 2023 <i class="fa fa-heart text-danger"></i> by <a href="https://whizfortune.com" target="_blank">Whizfortune</a></p>
                 </div>
             </div>
             <!-- Footer Copyright End -->

@@ -1,49 +1,73 @@
 [
     {
         "id": 1,
-        "title": "Branding",
-        "slug": "branding",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Mobile App Development",
+        "slug": "mobileapp",
+        "text": "Crafting applications for smartphones and tablets, providing functionality and convenience to users.",
         "iconSrc": "/images/svg/linea/linea-basic-target.svg",
         "imgSrc": "/images/project/work-details-1.jpg"
     },
     {
         "id": 2,
-        "title": "UX Design",
-        "slug": "ux-design",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Back End Development",
+        "slug": "backenddevelopment",
+        "text": "Building server-side components that manage data and enable application functionality.",
         "iconSrc": "/images/svg/linea/linea-basic-picture-multiple.svg",
         "imgSrc": "/images/project/work-details-2.jpg"
     },
     {
         "id": 3,
-        "title": "Strategy",
-        "slug": "strategy",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "AI & ML Development",
+        "slug": "aimldevelopment",
+        "text":"Creating intelligent systems that learn from data, allowing automation, predictions, and smart decision-making.",
         "iconSrc": "/images/svg/linea/linea-basic-picture.svg",
         "imgSrc": "/images/project/work-details-3.jpg"
     },
     {
         "id": 4,
-        "title": "E-commerce",
-        "slug": "e-commerce",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Cloud & DevOps",
+        "slug": "clouddevops",
+        "text": " Utilizing cloud tech for efficient app deployment with DevOps practices for seamless collaboration and automation.",
         "iconSrc": "/images/svg/linea/linea-ecommerce-cart-plus.svg",
         "imgSrc": "/images/project/work-details-4.jpg"
     },
     {
         "id": 5,
-        "title": "Marketing",
-        "slug": "marketing",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Blockchain Development",
+        "slug": "blockchain",
+        "text": "Building secure, decentralized applications utilizing blockchain's tamper-resistant nature.",
         "iconSrc": "/images/svg/linea/linea-basic-display.svg",
         "imgSrc": "/images/project/work-details-1.jpg"
     },
     {
         "id": 6,
-        "title": "Development",
-        "slug": "development",
-        "text": "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+        "title": "Game Development",
+        "slug": "gamedev",
+        "text": "Designing, programming, and creating interactive experiences across different platforms like PC, consoles, and mobile.",
+        "iconSrc": "/images/svg/linea/linea-basic-gear.svg",
+        "imgSrc": "/images/project/work-details-2.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Software Development",
+        "slug": "softwaredevelopment",
+        "text": " Offering expertise to design, build, and maintain customized software applications.",
+        "iconSrc": "/images/svg/linea/linea-basic-gear.svg",
+        "imgSrc": "/images/project/work-details-2.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Front End Development",
+        "slug": "frontenddev",
+        "text": "Designing user-facing elements for websites and apps, ensuring an engaging and intuitive user experience.",
+        "iconSrc": "/images/svg/linea/linea-basic-gear.svg",
+        "imgSrc": "/images/project/work-details-2.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Microsoft Development",
+        "slug": "microsoftdevelopment",
+        "text": "Building software and apps using Microsoft technologies like .NET, Azure, and Microsoft Office products.",
         "iconSrc": "/images/svg/linea/linea-basic-gear.svg",
         "imgSrc": "/images/project/work-details-2.jpg"
     }
