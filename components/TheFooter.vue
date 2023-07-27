@@ -13,8 +13,8 @@
                         </div>
                         <div class="footer-widget-content">
                             <div class="content">
-                                <a href="tel:(+1)212-946-2701">{{ footerData.footerAboutWidget.telephone }}</a>
-                                <a href="mailto:hello@hasagency.com">{{ footerData.footerAboutWidget.email }}</a>
+                                <a href="tel:08956786421">{{ footerData.footerAboutWidget.telephone }}</a>
+                                <a href="mailto:hello@whizfortune.com">{{ footerData.footerAboutWidget.email }}</a>
                             </div>
                             <div class="footer-social-inline">
                                 <a :href="footerData.footerAboutWidget.twitterUrl" target="_blank">
